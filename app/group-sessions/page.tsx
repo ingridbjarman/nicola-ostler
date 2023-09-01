@@ -1,6 +1,6 @@
 'use client'
 import Image from "next/image";
-import BuggyBootcamp from "../../img/buggyBootcamp.jpeg"
+import BuggyBootcamp from "../../img/buggybootcamp.jpeg"
 
 
 export default function GroupSessions() {
